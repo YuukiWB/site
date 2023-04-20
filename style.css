@@ -1,6 +1,5 @@
 body {
-    background: #174F84;
-    background: linear-gradient(135deg, #174F84, #024D82);
+    background: #1a1b1b;
     font-family: "Courier New", Courier, monospace;
     width: 1440px;
     height: 623px;
@@ -17,6 +16,5 @@ h4 {
 .Container {
     width: 600px;
     height: 200px;
-    background-color:red;
     text-align: center;
 }
