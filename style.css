@@ -1,0 +1,22 @@
+body {
+    background: #174F84;
+    background: linear-gradient(135deg, #174F84, #024D82);
+    font-family: "Courier New", Courier, monospace;
+    width: 1440px;
+    height: 623px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-x: hidden;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+.Container {
+    width: 600px;
+    height: 200px;
+    background-color:red;
+    text-align: center;
+}
